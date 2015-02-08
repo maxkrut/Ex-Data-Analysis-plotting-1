@@ -1,2 +1,3 @@
-# Expl-Data-Analysis-plotting-1
-Plotting Assignment 1 for Exploratory Data Analysis 
+# Exploratory Data Analysis
+
+This repository was created for the online course "Exploratory Data Analysis" on Coursera.com
