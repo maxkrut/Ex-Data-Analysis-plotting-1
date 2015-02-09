@@ -9,5 +9,5 @@ x <- read.table("household_power_consumption.txt",na.strings='?',
 ## subsetting
 x <- x[x$Date=="2007-02-01"|x$Date=="2007-02-02",]
 
-## merging columns
+## combain date and time
 times<-strptime(paste(x$Date,x$Time), "%Y-%m-%d %H:%M:%S")
